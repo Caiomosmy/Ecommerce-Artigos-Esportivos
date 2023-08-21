@@ -1,2 +1,2 @@
 # python-e-django
-Habilidades em Python, Django e como posso criar desde um "hello word" até um sistema de E-commerce completo.
+Plataforma de E-commerce Escalável:  Plataforma de comércio eletrônico usando Django. Implemente recursos como carrinho de compras, checkout, autenticação, e integração de pagamento.
